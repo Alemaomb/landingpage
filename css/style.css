@@ -68,7 +68,7 @@ header {
 .whatsapp {
   position: fixed;
   z-index: 2;
-  top: 200px;
+  top: 82%;
   right: 40px;
 }
 .whatsapp img {
